@@ -65,7 +65,7 @@ export default function Home() {
         </div>
         <h2 style={{ color: '#6c63ff', margin: 0, marginTop: '20px' }}>Metformin: Medicine or Poison?</h2>
         <p>
-          Metformin and 3 other top selling diabetes drugs are under secret review. What's your doctor not telling you?
+          Metformin and 3 other top selling diabetes drugs are under secret review. What' is your doctor not telling you?
         <br/>
         <br/>
         Doctors are urging every American with diabetes to <span style={{ color: '#6c63ff', textDecoration: 'underline', cursor: 'pointer' }} onClick={() => handle()}> watch this trending</span>  news story
