@@ -30,7 +30,7 @@ export default function Home() {
     }
   }
   const handle = async () => {
-    Router.push('https://www.digistore24.com/redir/424534/mlstomic/')
+    Router.push('https://www.digistore24.com/redir/307885/mlstomic/')
   }
   const keyUp = (e) => {
     if (e.keyCode == 13) {
